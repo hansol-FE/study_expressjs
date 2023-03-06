@@ -1,0 +1,6 @@
+{
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode" //플러그인 이름
+  }
+}
