@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx nodemon src/express.js"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +20,7 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
+    "cookie-parser": "^1.4.6",
     "express": "^4.18.2"
   }
 }
