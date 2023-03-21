@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "npx nodemon src/express.js",
+  "type": "module",
+  "scripgit cts": {
     "dev": "babel-node src/index.js"
   },
   "babel": {
